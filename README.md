@@ -91,5 +91,5 @@ endmodule
 ![exp1de](https://github.com/user-attachments/assets/269ca0d6-542b-4c67-93c4-94dc2da462d0)
 
 **Result:**
-
+Thus the different IC's are studied and truth table for logic gates are verified.
 
